@@ -13,4 +13,10 @@ Submitted by:<br>
 
 Amogh V Nayak<br>
 201ME109
-	
+
+
+# ML PROJECT 1
+
+VECTORISED MOVIE RECOMMENDOR SYSTEM
+
+CODE PREVIEW-https://github.com/Amoghvnayak/-CS252/blob/main/movie%20recommender%20system.ipynb
