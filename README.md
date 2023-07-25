@@ -25,4 +25,5 @@ CODE PREVIEW-https://github.com/Amoghvnayak/-CS252/blob/main/movie%20recommender
 
 IPL WIN PREDICTOR
 
-CODE PREVIEW- 
+CODE PREVIEW- https://github.com/Amoghvnayak/-CS252/blob/main/iplpredictor.ipynb
+APP LINK- 
