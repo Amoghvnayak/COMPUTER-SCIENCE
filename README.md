@@ -20,3 +20,9 @@ Amogh V Nayak<br>
 VECTORISED MOVIE RECOMMENDOR SYSTEM
 
 CODE PREVIEW-https://github.com/Amoghvnayak/-CS252/blob/main/movie%20recommender%20system.ipynb
+
+# ML PROJECT 2
+
+IPL WIN PREDICTOR
+
+CODE PREVIEW- 
