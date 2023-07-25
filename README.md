@@ -28,3 +28,7 @@ IPL WIN PREDICTOR
 CODE PREVIEW- https://github.com/Amoghvnayak/-CS252/blob/main/iplpredictor.ipynb
 
 APP LINK- https://github.com/Amoghvnayak/-CS252/blob/main/app.py
+
+
+# SPOTIFY DATA ANALYSIS
+
