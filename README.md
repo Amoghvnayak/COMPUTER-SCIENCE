@@ -32,3 +32,9 @@ APP LINK- https://github.com/Amoghvnayak/-CS252/blob/main/app.py
 
 # SPOTIFY DATA ANALYSIS
 
+CODE PREVIEW- https://github.com/Amoghvnayak/-CS252/blob/main/analysis.ipynb
+
+# ALIEN INVASION SELF BUILT GAME USING PYGAME
+
+CODE PREVIEW- 
+
