@@ -36,6 +36,6 @@ CODE PREVIEW- https://github.com/Amoghvnayak/-CS252/blob/main/analysis.ipynb
 
 # ALIEN INVASION SELF BUILT GAME USING PYGAME
 
-CODE PREVIEW- https://replit.com/@AmoghNayak1/lessgo#alien_invasion/alein.py
+CODE PREVIEW- https://github.com/Amoghvnayak/COMPUTER-SCIENCE/tree/main/ALIEN%20INASION
 
 
