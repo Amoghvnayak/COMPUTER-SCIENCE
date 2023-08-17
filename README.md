@@ -29,6 +29,16 @@ CODE PREVIEW- https://github.com/Amoghvnayak/-CS252/blob/main/iplpredictor.ipynb
 
 APP LINK- https://github.com/Amoghvnayak/-CS252/blob/main/app.py
 
+# ML PROJECT 3
+
+Customer Segmentation 
+
+CODE PREVIEW- 
+
+
+
+
+
 
 # SPOTIFY DATA ANALYSIS
 
