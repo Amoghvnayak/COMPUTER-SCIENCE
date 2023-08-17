@@ -33,7 +33,7 @@ APP LINK- https://github.com/Amoghvnayak/-CS252/blob/main/app.py
 
 Customer Segmentation 
 
-CODE PREVIEW- 
+CODE PREVIEW- https://github.com/Amoghvnayak/COMPUTER-SCIENCE/blob/main/CUSTOMER%20SEGMENTATION%20.ipynb
 
 
 
